@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  font-family: "PT Mono", monospace;
+}
+
+.menu {
+  background: #264d00;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+#colorPicker,
+#download,
+#clearCanvas {
+  display: inline-block;
+  margin: auto;
+}
+
+button {
+  font-family: "PT Mono", monospace;
+  color: #333300;
+}
